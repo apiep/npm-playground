@@ -1,5 +1,5 @@
 {
-  "name": "npm-playground",
+  "name": "@apiep/npm-playground",
   "version": "1.2.0-3",
   "description": "",
   "main": "main.node.js",
